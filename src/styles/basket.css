@@ -1,0 +1,78 @@
+h1 {
+    font-size: 24px;
+    padding: 0 10px;
+    text-align: left;
+}
+
+h2 {
+    font-size: 19px;
+    padding: 0 0 0 10px;
+}
+
+.right {
+    text-align: right;
+}
+
+.lhs {
+  float: left;
+  text-align: left;
+  width: 300px;
+}
+
+.rhs {
+  float: left;
+  padding-right: 10px;
+  text-align: left;
+  width: 250px;
+}
+
+body {
+  background: #cccccc;
+}
+
+ul {
+    font-size: 16px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.visuallyhidden {
+    font-size: 0.1em;
+    text-indent:-9999px;
+    position:absolute;
+        left:-9999px;
+}
+
+.icon {
+    color: #ffffff;
+    background-color: #00703c;
+    border: 2px solid #000000;
+    font-size: 19px;
+}
+
+.basketItem {
+    padding: 5px 10px;
+}
+
+.basket-item--info {
+    display: inline-block;
+    text-align: center;
+    width: 180px;
+}
+
+.shopping-item {
+    text-align: right;
+}
+
+.total {
+    font-weight: bold;
+    text-align: right;
+}
+
+.error {
+    border: 2px solid #b10e1e;
+    font-weight: bold;
+    margin: 0 10px;
+    padding: 10px 0;
+}
